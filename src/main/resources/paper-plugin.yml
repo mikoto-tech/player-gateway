@@ -1,0 +1,6 @@
+name: player-gateway
+version: '1.0-SNAPSHOT'
+main: net.mikoto.mc.plugin.playergateway.PlayerGatewayPlugin
+api-version: '1.21'
+authors: [ mikoto ]
+description: 适用于单服务器的玩家网关
